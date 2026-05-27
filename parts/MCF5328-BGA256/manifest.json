@@ -1,0 +1,17 @@
+{
+  "id": "MCU_NXP_ColdFire/MCF5328-BGA256:MCF5328-BGA256",
+  "name": "MCF5328-BGA256",
+  "library": "MCU_NXP_ColdFire",
+  "file": "MCU_NXP_ColdFire.kicad_symdir/MCF5328-BGA256.kicad_sym",
+  "description": "",
+  "datasheet": "",
+  "keywords": "",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-nxp-coldfire@master/parts/MCF5328-BGA256/",
+  "part_path": "parts/MCF5328-BGA256",
+  "symbol_file": "parts/MCF5328-BGA256/MCF5328-BGA256.kicad_sym",
+  "source_library": "MCU_NXP_ColdFire.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:07:15.355Z"
+}

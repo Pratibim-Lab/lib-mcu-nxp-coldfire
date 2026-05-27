@@ -1,0 +1,17 @@
+{
+  "id": "MCU_NXP_ColdFire/MCF5282:MCF5282",
+  "name": "MCF5282",
+  "library": "MCU_NXP_ColdFire",
+  "file": "MCU_NXP_ColdFire.kicad_symdir/MCF5282.kicad_sym",
+  "description": "Coldfire with SRAM and Flash Eprom",
+  "datasheet": "",
+  "keywords": "COLDFIRE",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-nxp-coldfire@master/parts/MCF5282/",
+  "part_path": "parts/MCF5282",
+  "symbol_file": "parts/MCF5282/MCF5282.kicad_sym",
+  "source_library": "MCU_NXP_ColdFire.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:07:15.348Z"
+}

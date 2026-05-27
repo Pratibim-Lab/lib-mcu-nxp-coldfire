@@ -1,0 +1,17 @@
+{
+  "id": "MCU_NXP_ColdFire/MCF5211CAE66:MCF5211CAE66",
+  "name": "MCF5211CAE66",
+  "library": "MCU_NXP_ColdFire",
+  "file": "MCU_NXP_ColdFire.kicad_symdir/MCF5211CAE66.kicad_sym",
+  "description": "ColdFire Microcontroller, LQFP64",
+  "datasheet": "https://www.nxp.com/docs/en/data-sheet/MCF5213EC.pdf",
+  "keywords": "MCU",
+  "footprint": "Package_QFP:LQFP-64_10x10mm_P0.5mm",
+  "extends": "MCF5212CAE66",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-nxp-coldfire@master/parts/MCF5211CAE66/",
+  "part_path": "parts/MCF5211CAE66",
+  "symbol_file": "parts/MCF5211CAE66/MCF5211CAE66.kicad_sym",
+  "source_library": "MCU_NXP_ColdFire.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:07:15.325Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "MCU_NXP_ColdFire/MCF5407:MCF5407",
+  "name": "MCF5407",
+  "library": "MCU_NXP_ColdFire",
+  "file": "MCU_NXP_ColdFire.kicad_symdir/MCF5407.kicad_sym",
+  "description": "Coldfire CPU",
+  "datasheet": "",
+  "keywords": "COLDFIRE",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-nxp-coldfire@master/parts/MCF5407/",
+  "part_path": "parts/MCF5407",
+  "symbol_file": "parts/MCF5407/MCF5407.kicad_sym",
+  "source_library": "MCU_NXP_ColdFire.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:07:15.365Z"
+}
